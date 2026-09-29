@@ -32,7 +32,7 @@ A centralized application for managing support tickets and service operations, w
 
 **Technology:** React 19 · Vite 6 · Material UI 7 · React Router 7 · ApexCharts · Axios
 
-🔗 **[View Ticketing Tool](https://github.com/clouteTech/Ticketing-Tool)**
+🔗 **[View Ticketing Tool](https://github.com/Cloute-Technologies-Projects/Ticketing-Tool)**
 
 ---
 
@@ -51,7 +51,7 @@ A centralized workspace for managing customer and supplier records, creating bus
 
 **Technology:** React 18 · Vite · React Router 6 · Tailwind CSS · Material UI · Axios · React PDF
 
-🔗 **[View Quotation Tool](https://github.com/clouteTech/Quotation-Tool)**
+🔗 **[View Quotation Tool](https://github.com/Cloute-Technologies-Projects/Quotation-Tool)**
 
 ---
 
@@ -71,7 +71,7 @@ A unified workspace for managing clients, projects, employees, and support ticke
 
 **Technology:** React 19 · Vite · React Router 7 · Material UI 7 · ApexCharts · React Hook Form · Axios
 
-🔗 **[View Qryio CRM Web](https://github.com/clouteTech/Qryio-CRM-Tool)**
+🔗 **[View Qryio CRM Web](https://github.com/Cloute-Technologies-Projects/Qryio-CRM-Tool)**
 
 ---
 
@@ -90,7 +90,7 @@ A cross-platform mobile application that brings project and support workflows to
 
 **Technology:** Expo · React Native · Expo Router · React Native Paper · Axios · React Context · AsyncStorage
 
-🔗 **[View Qryio CRM Mobile](https://github.com/clouteTech/Qryio-CRM-App)**
+🔗 **[View Qryio CRM Mobile](https://github.com/Cloute-Technologies-Projects/Qryio-CRM-App)**
 
 ---
 
